@@ -68,3 +68,10 @@
 
     git branch
 
+
+
+
+
+ 
+>>>>>>> conflikt
+
